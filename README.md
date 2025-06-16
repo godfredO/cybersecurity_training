@@ -1,1 +1,1 @@
-# cybersecurity_training_proj
+Python Implementation of V. Švábenský, J. Vykopal, P. Čeleda, K. Tkáčik, and D. Popovič: Student Assessment in Cybersecurity Training Automated by Pattern Mining and Clustering, Springer Education and Information Technologies
